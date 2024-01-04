@@ -13,3 +13,7 @@ Potential Outliers: The bars at the high-degree end might indicate the presence 
 Hence, in social media analysis, nodes with high degrees indicate few very influential users with many followers or someone who tweets very frequently, and hence and gets a lot of retweets.
 
 ![Graph Node Diagram](NodeGraph.png)
+
+Tasks like these are extremely important. Studying information flow is one thing, but understanding X's degree distribution can provide insights into the overall structure. The power law distribution evident from the small sample's histogram of degree below itself demonstrates how easily strategies for information spreading or controlling misinformation can be built.
+
+Another important conversation is in anomaly detection: If the degree distribution has unexpected spikes or irregularities, it can help identify possible bots, spam, or coordinated campaigns. Specifically, public platform moderators and analysts can use these tools to identify interactions, prune irrelevant nodes and tailor their content/advertisement strategies. Overall, these tasks can also be extended to other platforms. The modern age is more dependent on social media than ever, and tasks like these can bridge on further uses of data which otherwise might never reach their potential.
